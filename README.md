@@ -1,7 +1,8 @@
-## Hi there 👋 
+# Hi there 👋 I am Xiv3r
 
-<details><summary> I am xiv3r</summary>
-  
+<details><summary>Bio</summary></summary>
+<br>
+
 - 🔭 I’m currently working on linux
 - 🌱 I’m currently learning linux system administration 
 - 👯 I’m looking to collaborate on: X
@@ -10,5 +11,5 @@
 - 📫 How to reach me: X
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: /dev/null
-- 
+
 </details>
