@@ -2,5 +2,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xiv3r&theme=radical&hide_border=false)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=neon&layout=pie)](https://github.com/xiv3r/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=radical&layout=pie)](https://github.com/xiv3r/github-readme-stats)
