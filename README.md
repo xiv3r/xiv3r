@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aryanvbw/count.svg" />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
