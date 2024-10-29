@@ -2,6 +2,10 @@
   Visitors Count
   <br>
   <img src="https://profile-counter.glitch.me/xiv3r/count.svg" /></p>
+  
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/xiv3r/github-readme-activity-graph)
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xiv3r&label=Profile%20views&color=0e75b6&style=flat" alt="xiv3r" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xiv3r"/></a></p>
