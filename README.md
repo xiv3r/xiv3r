@@ -1,6 +1,9 @@
-<p align="center"><img src="https://github.com/xiv3r/xiv3r/blob/main/xiv3r.png">
-  <br>
+
+<p align="center"> 👁️  👁️ </p>
 <p align="center"><img src="https://profile-counter.glitch.me/xiv3r/count.svg" /></p>
+
+
+<p align="center"><img src="https://github.com/xiv3r/xiv3r/blob/main/xiv3r.png">
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=000000&color=FF69B4&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/xiv3r/github-readme-activity-graph)
 
