@@ -14,7 +14,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiv3r&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=auto&color=f28500&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/xiv3r/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=auto&color=ffd580&line=65f207&point=2c42ed&area=true&hide_border=false)](https://github.com/xiv3r/github-readme-activity-graph)
 
 <p align="center"><img src="https://repobeats.axiom.co/api/embed/5708c01fc2970fa6f945a069e73acc7f9d70d90a.svg"/> </p>
 
