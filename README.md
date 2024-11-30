@@ -1,7 +1,18 @@
 <p align="center"> 👁️  👁️ </p>
 <p align="center"><img src="https://profile-counter.glitch.me/xiv3r/count.svg" /></p>
 
-<p align="center"><img src="https://github.com/xiv3r/xiv3r/blob/main/xiv3r.png">
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiv3r&theme=prussian" width="80%" height="auto" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiv3r&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+</div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=000000&color=FF69B4&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/xiv3r/github-readme-activity-graph)
 
