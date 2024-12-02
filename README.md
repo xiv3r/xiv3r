@@ -22,7 +22,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xiv3r"/></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=radical&layout=pie"/> </p>
-                     
-<p align="center"> <a href="https://github.com/xiv3r/github-readme-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiv3r&theme=radical&hide_border=false" alt="xiv3r" /></a></p>
 
 <p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiv3r%2Fxiv3r&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81%EF%B8%8F+++%F0%9F%91%81%EF%B8%8F&edge_flat=false">
