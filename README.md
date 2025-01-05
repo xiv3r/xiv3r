@@ -1,7 +1,3 @@
-
-<p align="center"> 👁️  👁️ </p>
-<p align="center"><img src="https://profile-counter.glitch.me/xiv3r/count.svg" /></p>
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiv3r&theme=prussian" width="97%" height="auto" />
 </div>
