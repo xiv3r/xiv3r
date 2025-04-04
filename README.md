@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://user-badge.committers.top/philippines_public/xiv3r.svg"/> </p>
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiv3r&theme=prussian" width="97%" height="auto" />
 </div>
@@ -20,3 +22,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xiv3r"/></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=radical&layout=pie"/> </p>
+
+<p align="center"> <img src="https://user-badge.committers.top/philippines_public/xiv3r.svg"/> </p>
