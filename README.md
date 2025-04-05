@@ -8,7 +8,7 @@
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiv3r&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;"/></div>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=auto&color=ffd580&line=65f207&point=2c42ed&area=true&hide_border=false" width="96%" height="auto"></p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=auto&color=0000FF&line=FF0000&point=00FF00&area=true&hide_border=false" width="96%" height="auto"></p>
 
 <p align="center"><img src="https://repobeats.axiom.co/api/embed/5708c01fc2970fa6f945a069e73acc7f9d70d90a.svg"/></p>
 
