@@ -8,6 +8,4 @@
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xiv3r&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xiv3r"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=radical&layout=pie"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiv3r&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xiv3r"/> <img height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiv3r&theme=radical&layout=pie"/></p>
