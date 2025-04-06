@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-badge.committers.top/philippines_public/xiv3r.svg"/></p>
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiv3r&theme=prussian" width="800"/></div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiv3r&theme=prussian" width="840" height="auto"/></div>
 
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiv3r&theme=prussian" width="48%" height="auto" style="display: inline;"/></div>
 
